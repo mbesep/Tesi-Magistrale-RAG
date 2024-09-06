@@ -1,0 +1,4 @@
+Llama 3.1 med
+Qwen2
+Mistral-Nemo
+Phi3
