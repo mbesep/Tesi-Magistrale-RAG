@@ -1,2 +1,3 @@
 # Tesi-Magistrale-RAG
 Tesi relativa allo studio delle performance dei RAG applicati ai LLM
+La presente tesi esplora l'applicazione della tecnica Retrieval-Augmented Generation (RAG) combinata con diversi modelli di linguaggio di grandi dimensioni (LLM), con particolare attenzione all’ambito medico. L'obiettivo principale è analizzare come la tecnica RAG possa migliorare la qualità delle risposte generate, in particolare nell'identificazione di pattern clinici e nella personalizzazione delle strategie terapeutiche. Inoltre latesi valuta le performance dei modelli tramite la libreria RAGAS, analizzando metriche quali accuratezza, robustezza e fedeltà delle risposte in contesti clinici.
